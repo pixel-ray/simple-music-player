@@ -1,4 +1,4 @@
-# Simple Music Player with [Create React App], TypeScript and Emotion
+# Simple Music Player with CRA, TypeScript and Emotion
 
 To use the app, you can run:
 
